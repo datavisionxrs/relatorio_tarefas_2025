@@ -75,7 +75,7 @@
                 </h3>
                 <div class="p-6 transformacao-box rounded-xl shadow-sm leading-relaxed">
                     <p class="text-lg italic text-slate-700">
-                        "Em 2025, foi implementado módulos de Inteligência Comercial, Financeira e Operacional, integrando todas as áreas críticas em um ambiente único de análise. O trabalho elevou a Açoriana a um novo patamar de profissionalização dos dados, trazendo <strong>eficiência, clareza e velocidade</strong> no entendimento do desempenho."
+                        "Em 2025, foram implementados módulos de Inteligência Comercial, Financeira e Operacional, integrando todas as áreas críticas num ambiente único de análise. O trabalho elevou a Açoriana a um novo patamar de profissionalização de dados, trazendo <strong>eficiência, clareza e velocidade</strong> no entendimento do desempenho."
                     </p>
                 </div>
             </section>
@@ -115,7 +115,7 @@
                             <div class="kpi-item"><span class="kpi-icon text-green-600">✔</span> Margens por produto e categoria</div>
                             <div class="kpi-item"><span class="kpi-icon text-green-600">✔</span> Rentabilidade por cliente</div>
                             <div class="kpi-item"><span class="kpi-icon text-green-600">✔</span> Custos Variáveis e Fixos</div>
-                            <div class="kpi-item"><span class="kpi-icon text-green-600">✔</span> DRE – Demonstração dos Resultados do Exercício</div>
+                            <div class="kpi-item"><span class="kpi-icon text-green-600">✔</span> DRE – Demonstração de Resultados</div>
                             <div class="kpi-item"><span class="kpi-icon text-green-600">✔</span> Análises de eficiência financeira</div>
                         </div>
                         <div class="mt-5 p-3 bg-white rounded-lg border-l-4 border-blue-600 text-sm italic text-blue-800">
@@ -131,8 +131,8 @@
                         <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-2 text-slate-700">
                             <div class="kpi-item"><span class="kpi-icon text-amber-600">✔</span> Indicadores de Massadas</div>
                             <div class="kpi-item"><span class="kpi-icon text-amber-600">✔</span> Produção diária por item</div>
-                            <div class="kpi-item"><span class="kpi-icon text-amber-600">✔</span> Estoque Insumos</div>
-                            <div class="kpi-item"><span class="kpi-icon text-amber-600">✔</span> Estoque Produto Acabado</div>
+                            <div class="kpi-item"><span class="kpi-icon text-amber-600">✔</span> Stock de Insumos</div>
+                            <div class="kpi-item"><span class="kpi-icon text-amber-600">✔</span> Stock de Produto Acabado</div>
                         </div>
                         <div class="mt-5 p-3 bg-white rounded-lg border-l-4 border-amber-600 text-sm italic text-amber-800">
                             <strong>Transformação:</strong> Visão clara da eficiência, gargalos e oportunidades de ajuste na produção.
@@ -155,7 +155,7 @@
                     </div>
                     <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
                         <h4 class="font-bold text-teal-700 mb-3 uppercase tracking-tighter">📄 Mensais – Estratégico</h4>
-                        <p class="text-sm text-slate-600 mb-4">Integração completa de faturamento, margem e despesas para a diretoria.</p>
+                        <p class="text-sm text-slate-600 mb-4">Integração macro de faturamento, margem e despesas para a diretoria.</p>
                         <div class="text-xs font-bold text-teal-900 bg-teal-50 p-2 rounded">Visão analítica profunda.</div>
                     </div>
                 </div>
@@ -177,7 +177,7 @@
                             <h4 class="text-amber-300 font-bold mb-2 flex items-center">
                                 <span class="mr-2">📺</span> NOVIDADE LOGÍSTICA
                             </h4>
-                            <p class="text-sm leading-relaxed">
+                            <p class="text-sm leading-relaxed text-slate-200">
                                 Instalação de um <strong>monitor na área de Logística</strong>, permitindo que os vendedores acompanhem os resultados de vendas em tempo real diretamente pela tela.
                             </p>
                         </div>
@@ -188,7 +188,7 @@
             <!-- 6. INDICADORES INDUSTRIAIS -->
             <section>
                 <h3 class="section-header text-2xl font-bold text-slate-800 mb-6 flex items-center">
-                    <span class="bg-yellow-100 p-2 rounded-lg mr-3">⚙️</span> 6. MELHORIAS NA INDÚSTRIA
+                    <span class="bg-yellow-100 p-2 rounded-lg mr-3">⚙️</span> 6. INDICADORES E MELHORIAS NA INDÚSTRIA
                 </h3>
                 <div class="bg-slate-50 p-6 rounded-xl border border-slate-200">
                     <ul class="grid sm:grid-cols-2 gap-4 text-slate-700">
@@ -207,7 +207,7 @@
                     <span class="bg-indigo-100 p-2 rounded-lg mr-3">🚀</span> 8. PROPOSTA FINAL — CONTINUIDADE 2026
                 </h3>
                 <div class="p-8 bg-white border-2 border-indigo-200 rounded-3xl shadow-lg space-y-4 text-slate-700">
-                    <p class="font-bold text-indigo-900 text-lg">Eixos de expansão para o próximo ano:</p>
+                    <p class="font-bold text-indigo-950 text-lg">Eixos de expansão para o próximo ano:</p>
                     <ul class="space-y-4">
                         <li class="flex items-start gap-3">
                             <span class="text-indigo-600 font-black">01.</span>
@@ -219,17 +219,17 @@
                         </li>
                         <li class="flex items-start gap-3">
                             <span class="text-indigo-600 font-black">03.</span>
-                            <span>Automação completa dos relatórios HTML e suporte tático à supervisão.</span>
+                            <span>Automação completa dos relatórios HTML e suporte analítico contínuo à supervisão.</span>
                         </li>
                         <li class="flex items-start gap-3">
                             <span class="text-indigo-600 font-black">04.</span>
                             <span>Plano de ação trimestral baseado em dados.</span>
                         </li>
-                        <li class="flex items-start gap-3 p-4 bg-amber-50 rounded-xl border border-amber-100">
+                        <li class="flex items-start gap-3 p-4 bg-amber-50 rounded-xl border border-amber-100 shadow-sm">
                             <span class="text-amber-600 font-black">05.</span>
                             <span>
                                 <strong>Análise de mercado sell-out com dados Scanntech:</strong> 
-                                Monitoramento estratégico de ATACADO e VAREJO <span class="text-xs text-slate-500 block mt-1">(Aguardando aprovação para inicialização)</span>
+                                Monitorização estratégica do Atacado e Varejo <span class="text-xs text-slate-500 font-normal italic block mt-1">(Aguardando aprovação para inicialização)</span>
                             </span>
                         </li>
                     </ul>
@@ -239,11 +239,11 @@
             <!-- 9. VALOR AGREGADO -->
             <section>
                 <h3 class="section-header text-2xl font-bold text-slate-800 mb-6 flex items-center">
-                    <span class="bg-amber-100 p-2 rounded-lg mr-3">✅</span> 9. PORQUE A DATAVISIONX?
+                    <span class="bg-amber-100 p-2 rounded-lg mr-3">✅</span> 9. PORQUÊ A DATAVISIONX?
                 </h3>
                 <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 text-center">
                     <div class="p-4 bg-slate-50 rounded-xl border border-slate-100">
-                        <div class="text-2xl mb-1">🧠</div>
+                        <div class="text-3xl mb-1">🧠</div>
                         <div class="text-[10px] font-bold uppercase text-slate-500">Domínio da Base</div>
                     </div>
                     <div class="p-4 bg-slate-50 rounded-xl border border-slate-100">
@@ -263,8 +263,8 @@
 
         </main>
 
-        <footer class="bg-slate-900 text-slate-400 p-6 text-center text-xs tracking-widest uppercase">
-            DataVisionX &copy; 2025 | Relatório Estratégico - Alberto Rossi
+        <footer class="bg-slate-900 text-slate-500 p-8 text-center text-[10px] tracking-widest uppercase font-bold border-t border-white/5">
+            DataVisionX &copy; 2025 | Inteligência Comercial & Estratégia | Alberto Rossi
         </footer>
 
     </div>
