@@ -118,7 +118,7 @@
                             <div class="kpi-item"><span class="kpi-icon text-green-600">✔</span> DRE – Demonstração dos Resultados do Exercício</div>
                             <div class="kpi-item"><span class="kpi-icon text-green-600">✔</span> Análises de eficiência financeira</div>
                         </div>
-                        <div class="mt-5 p-3 bg-white rounded-lg border-l-4 border-green-600 text-sm italic text-green-800">
+                        <div class="mt-5 p-3 bg-white rounded-lg border-l-4 border-blue-600 text-sm italic text-blue-800">
                             <strong>Transformação:</strong> Permitiu cruzar vendas x margem x custos, trazendo visão real de lucratividade.
                         </div>
                     </div>
